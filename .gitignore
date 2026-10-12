@@ -1,0 +1,15 @@
+# Claves y configuración privada
+.env
+.env.*
+!.env.example
+
+# Entorno virtual
+.venv/
+venv/
+
+# Archivos generados por Python
+__pycache__/
+*.py[cod]
+
+# Configuración de PyCharm
+.idea/

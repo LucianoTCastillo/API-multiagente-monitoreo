@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+langgraph
+langchain-groq
+redis
+langgraph-checkpoint-redis
+python-dotenv
+langsmith
+httpx
